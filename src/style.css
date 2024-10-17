@@ -1,0 +1,14 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.item {
+  /* // display: flex;
+  //flex-wrap: nowrap; */
+  padding: 5px;
+}
+.line {
+  display: flex;
+  flex-direction: row;
+}
