@@ -1,11 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import './style.css';
-import { Button } from 'primereact/button';
-import 'primereact/resources/themes/lara-light-indigo/theme.css';
-import Add from './Add';
-import 'primereact/resources/primereact.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'primeflex/primeflex.css';
 
 export function App() {
   const [one, setOne] = useState(true);
